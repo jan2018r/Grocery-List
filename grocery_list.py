@@ -1,8 +1,8 @@
 '''
 Program:               Grocery List Script
-Author:                Joel Ruiz
+Author:                
 Class:                 IT-140-T5093 Introduction to scripting 18EW5
-Instructor             Phillip Davis, Lead Instructor (Ed.D.)
+Instructor             
 Date:                  3 Jun 2018
 Description:        A program that by INPUT's dictionary type data from the user on grocery store 
                     Items, quantity, and price of multiple items. Finally, the program OUTPUTS the total
